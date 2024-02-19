@@ -1,6 +1,6 @@
 <h1>Users</h1>
 
-Bruno: https://github.com/bruno0135
+Bruno: https://github.com/bruno0135<br>
 Sergi: https://github.com/MrSant8
 
 #Pac-Man
